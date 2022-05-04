@@ -1,0 +1,54 @@
+/.dir-locals.el/1.1.1.2/Thu Feb 24 01:53:34 2022/-ko/
+/.editorconfig/1.1.1.2/Thu Feb 24 01:53:34 2022/-ko/
+/freedreno_autotune.c/1.1.1.2/Thu Feb 24 01:53:34 2022/-ko/
+/freedreno_autotune.h/1.1.1.1/Thu Jul 22 10:04:43 2021/-ko/
+/freedreno_batch.c/1.12/Thu Feb 24 02:29:54 2022/-ko/
+/freedreno_batch.h/1.12/Thu Feb 24 02:29:54 2022/-ko/
+/freedreno_batch_cache.c/1.11/Thu Feb 24 02:29:54 2022/-ko/
+/freedreno_batch_cache.h/1.1.1.5/Thu Feb 24 01:53:34 2022/-ko/
+/freedreno_blitter.c/1.1.1.7/Thu Feb 24 01:53:34 2022/-ko/
+/freedreno_blitter.h/1.1.1.5/Thu Feb 24 01:53:34 2022/-ko/
+/freedreno_context.c/1.12/Thu Feb 24 02:29:54 2022//
+/freedreno_context.h/1.12/Thu Feb 24 02:29:54 2022//
+/freedreno_draw.c/1.12/Thu Feb 24 02:29:54 2022//
+/freedreno_draw.h/1.7/Thu Feb 24 02:29:54 2022//
+/freedreno_fence.c/1.10/Thu Feb 24 02:29:54 2022//
+/freedreno_fence.h/1.9/Thu Feb 24 02:29:54 2022//
+/freedreno_gmem.c/1.12/Thu Feb 24 02:29:54 2022//
+/freedreno_gmem.h/1.10/Thu Jul 22 10:50:31 2021//
+/freedreno_perfetto.cc/1.1.1.1/Thu Feb 24 01:53:35 2022/-ko/
+/freedreno_perfetto.h/1.1.1.1/Thu Feb 24 01:53:35 2022/-ko/
+/freedreno_program.c/1.9/Thu Feb 24 02:29:54 2022//
+/freedreno_program.h/1.1.1.2/Tue Jan 29 10:59:03 2019//
+/freedreno_query.c/1.10/Thu Jul 22 10:50:31 2021//
+/freedreno_query.h/1.9/Thu Feb 24 02:29:54 2022//
+/freedreno_query_acc.c/1.9/Thu Feb 24 02:29:54 2022/-ko/
+/freedreno_query_acc.h/1.8/Thu Feb 24 02:29:54 2022/-ko/
+/freedreno_query_hw.c/1.9/Thu Feb 24 02:29:54 2022//
+/freedreno_query_hw.h/1.7/Thu Feb 24 02:29:54 2022//
+/freedreno_query_sw.c/1.8/Thu Jul 22 10:50:31 2021//
+/freedreno_query_sw.h/1.1.1.4/Thu Jul 22 10:04:45 2021//
+/freedreno_resource.c/1.14/Thu Feb 24 02:29:54 2022//
+/freedreno_resource.h/1.11/Thu Feb 24 02:29:54 2022//
+/freedreno_screen.c/1.13/Thu Feb 24 02:29:54 2022//
+/freedreno_screen.h/1.12/Thu Feb 24 02:29:54 2022//
+/freedreno_state.c/1.12/Thu Feb 24 02:29:54 2022//
+/freedreno_state.h/1.1.1.6/Thu Feb 24 01:53:35 2022//
+/freedreno_surface.c/1.1.1.6/Thu Jul 22 10:04:47 2021//
+/freedreno_surface.h/1.1.1.4/Thu Jul 22 10:04:47 2021//
+/freedreno_texture.c/1.9/Thu Feb 24 02:29:54 2022//
+/freedreno_texture.h/1.8/Thu Feb 24 02:29:54 2022//
+/freedreno_tracepoints.py/1.1.1.2/Thu Feb 24 01:53:35 2022/-ko/
+/freedreno_util.c/1.9/Thu Feb 24 02:29:55 2022//
+/freedreno_util.h/1.12/Thu Feb 24 02:29:55 2022//
+/gmemtool.c/1.1.1.2/Thu Feb 24 01:53:35 2022/-ko/
+/meson.build/1.1.1.7/Thu Feb 24 01:53:35 2022/-ko/
+/trace-parser.py/1.1.1.1/Thu Jul 22 10:04:48 2021/-ko/
+D/a2xx////
+D/a3xx////
+D/a4xx////
+D/a5xx////
+D/a6xx////
+D/ci////
+D/drm////
+D/ir3////

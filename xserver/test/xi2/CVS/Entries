@@ -1,0 +1,14 @@
+/protocol-common.c/1.11/Sun Feb 20 17:41:35 2022//
+/protocol-common.h/1.7/Mon Apr 13 08:07:00 2020//
+/protocol-eventconvert.c/1.8/Sun Feb 20 17:41:35 2022//
+/protocol-xigetclientpointer.c/1.7/Sun Feb 20 17:41:35 2022//
+/protocol-xigetselectedevents.c/1.7/Sun Feb 20 17:41:35 2022//
+/protocol-xipassivegrabdevice.c/1.10/Sun Feb 20 17:41:35 2022//
+/protocol-xiquerydevice.c/1.9/Sun Feb 20 17:41:35 2022//
+/protocol-xiquerypointer.c/1.9/Sun Feb 20 17:41:35 2022//
+/protocol-xiqueryversion.c/1.9/Sun Feb 20 17:41:35 2022//
+/protocol-xiselectevents.c/1.8/Sun Feb 20 17:41:35 2022//
+/protocol-xisetclientpointer.c/1.7/Sun Feb 20 17:41:35 2022//
+/protocol-xiwarppointer.c/1.8/Sun Feb 20 17:41:35 2022//
+/xi2.c/1.4/Sun Feb 20 17:41:35 2022//
+D

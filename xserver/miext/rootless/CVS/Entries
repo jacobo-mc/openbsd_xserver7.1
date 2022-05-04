@@ -1,0 +1,14 @@
+/Makefile.am/1.4/Sat Nov  5 13:32:57 2011//
+/Makefile.in/1.37/Thu Nov 11 09:03:14 2021//
+/README.txt/1.3/Sat Nov  5 13:32:57 2011//
+/rootless.h/1.8/Thu Nov 11 09:03:14 2021//
+/rootlessCommon.c/1.7/Sat Sep 27 17:53:04 2014//
+/rootlessCommon.h/1.9/Thu Nov 11 09:03:14 2021//
+/rootlessConfig.h/1.6/Sun May 29 12:02:40 2016//
+/rootlessGC.c/1.11/Thu Nov 11 09:03:14 2021//
+/rootlessScreen.c/1.13/Thu Nov 11 09:03:14 2021//
+/rootlessValTree.c/1.8/Sat Nov  7 16:48:53 2015//
+/rootlessWindow.c/1.12/Thu Nov 11 09:03:14 2021//
+/rootlessWindow.h/1.7/Sun May 29 12:02:40 2016//
+D/accel////
+D/safeAlpha////

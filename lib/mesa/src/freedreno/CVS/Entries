@@ -1,0 +1,21 @@
+/.clang-format/1.1.1.2/Thu Feb 24 01:53:05 2022/-ko/
+/.dir-locals.el/1.1.1.2/Thu Feb 24 01:53:05 2022/-ko/
+/.editorconfig/1.1.1.2/Thu Feb 24 01:53:05 2022/-ko/
+/meson.build/1.1.1.6/Thu Feb 24 01:53:05 2022/-ko/
+D/.gitlab-ci////
+D/afuc////
+D/ci////
+D/common////
+D/computerator////
+D/decode////
+D/drm////
+D/drm-shim////
+D/ds////
+D/fdl////
+D/ir2////
+D/ir3////
+D/isa////
+D/perfcntrs////
+D/registers////
+D/rnn////
+D/vulkan////

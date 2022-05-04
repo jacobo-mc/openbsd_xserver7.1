@@ -1,0 +1,13 @@
+/Makefile.am/1.12/Thu Nov 11 09:03:08 2021//
+/Makefile.in/1.37/Thu Nov 11 09:03:08 2021//
+/linux.h/1.1/Sun May 29 12:02:38 2016//
+/lnx_acpi.c/1.6/Sat Sep 27 17:53:02 2014//
+/lnx_agp.c/1.8/Thu Nov 11 09:03:08 2021//
+/lnx_apm.c/1.7/Thu Nov 11 09:03:08 2021//
+/lnx_bell.c/1.4/Sun Jun 10 13:21:25 2012//
+/lnx_init.c/1.18/Thu Nov 11 09:03:08 2021//
+/lnx_kmod.c/1.5/Wed Sep 16 19:10:23 2015//
+/lnx_platform.c/1.7/Thu Nov 11 09:03:08 2021//
+/lnx_video.c/1.15/Thu Nov 11 09:03:08 2021//
+/systemd-logind.c/1.5/Sun Feb 20 17:41:35 2022//
+D/int10////

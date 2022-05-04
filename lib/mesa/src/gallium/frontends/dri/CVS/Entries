@@ -1,0 +1,14 @@
+/dri2.c/1.1.1.2/Thu Feb 24 01:54:41 2022/-ko/
+/dri_context.c/1.1.1.2/Thu Sep  9 09:45:10 2021/-ko/
+/dri_context.h/1.1.1.2/Thu Feb 24 01:54:41 2022/-ko/
+/dri_drawable.c/1.1.1.2/Thu Feb 24 01:54:41 2022/-ko/
+/dri_drawable.h/1.1.1.2/Thu Feb 24 01:54:41 2022/-ko/
+/dri_helpers.c/1.1.1.2/Thu Feb 24 01:54:41 2022/-ko/
+/dri_helpers.h/1.1.1.2/Thu Feb 24 01:54:41 2022/-ko/
+/dri_query_renderer.c/1.1.1.2/Thu Feb 24 01:54:41 2022/-ko/
+/dri_query_renderer.h/1.1.1.1/Thu Jul 22 10:08:56 2021/-ko/
+/dri_screen.c/1.1.1.2/Thu Feb 24 01:54:41 2022/-ko/
+/dri_screen.h/1.1.1.2/Thu Feb 24 01:54:41 2022/-ko/
+/drisw.c/1.1.1.2/Thu Feb 24 01:54:41 2022/-ko/
+/meson.build/1.1.1.1/Thu Jul 22 10:08:56 2021/-ko/
+D

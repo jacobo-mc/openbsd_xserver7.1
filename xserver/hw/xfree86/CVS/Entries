@@ -1,0 +1,38 @@
+/Makefile.am/1.16/Thu Nov 11 09:03:05 2021//
+/Makefile.in/1.39/Thu Nov 11 09:03:05 2021//
+/Xorg.sh.in/1.2/Wed Sep 16 19:10:22 2015//
+/sdksyms.sh/1.10/Thu Nov 11 09:03:05 2021//
+/xorg-wrapper.c/1.5/Thu Nov 11 09:03:05 2021//
+/xorgconf.cpp/1.6/Thu Nov 11 09:03:05 2021//
+D/common////
+D/ddc////
+D/dixmods////
+D/doc////
+D/dri////
+D/dri2////
+D/drivers////
+D/dummylib////
+D/exa////
+D/fbdevhw////
+D/glamor_egl////
+D/i2c////
+D/int10////
+D/loader////
+D/man////
+D/modes////
+D/os-support////
+D/parser////
+D/rac////
+D/ramdac////
+D/scanpci////
+D/shadowfb////
+D/utils////
+D/vbe////
+D/vgahw////
+D/x86emu////
+D/xaa////
+D/xf1bpp////
+D/xf4bpp////
+D/xf8_16bpp////
+D/xf8_32bpp////
+D/xkb////

@@ -1,0 +1,23 @@
+/c11_compat.h/1.5/Thu Aug 27 12:31:19 2020/-ko/
+/c99_alloca.h/1.1.1.1/Sun Nov 22 02:36:59 2015//
+/c99_compat.h/1.8/Thu Jul 22 10:50:25 2021//
+/c99_math.h/1.1.1.3/Sun Dec 11 08:39:36 2016//
+/meson.build/1.1.1.4/Thu Jul 22 09:58:36 2021/-ko/
+/no_extern_c.h/1.1.1.2/Thu Jul 22 09:58:36 2021//
+D/CL////
+D/D3D9////
+D/EGL////
+D/GL////
+D/GLES////
+D/GLES2////
+D/GLES3////
+D/HaikuGL////
+D/KHR////
+D/android_stub////
+D/c11////
+D/c99////
+D/d3dadapter////
+D/drm-uapi////
+D/pci_ids////
+D/vulkan////
+D/winddk////

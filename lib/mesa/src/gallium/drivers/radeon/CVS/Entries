@@ -1,0 +1,26 @@
+/.dir-locals.el/1.1.1.1/Wed Jan 22 02:09:52 2020/-ko/
+/pspdecryptionparam.h/1.1.1.1/Thu Jul 22 10:06:48 2021/-ko/
+/radeon_temporal.h/1.1.1.1/Thu Feb 24 01:54:05 2022/-ko/
+/radeon_uvd.c/1.11/Thu Jul 22 10:50:34 2021//
+/radeon_uvd.h/1.9/Thu Jul 22 10:50:34 2021//
+/radeon_uvd_enc.c/1.1.1.7/Thu Feb 24 01:54:06 2022/-ko/
+/radeon_uvd_enc.h/1.1.1.5/Thu Jul 22 10:06:49 2021/-ko/
+/radeon_uvd_enc_1_1.c/1.1.1.6/Thu Jul 22 10:06:50 2021/-ko/
+/radeon_vce.c/1.12/Thu Feb 24 02:29:57 2022//
+/radeon_vce.h/1.1.1.8/Thu Jul 22 10:06:50 2021//
+/radeon_vce_40_2_2.c/1.10/Thu Feb 24 02:29:57 2022//
+/radeon_vce_50.c/1.10/Thu Feb 24 02:29:57 2022//
+/radeon_vce_52.c/1.11/Thu Feb 24 02:29:57 2022/-ko/
+/radeon_vcn_av1_default.h/1.1.1.1/Thu Jul 22 10:06:52 2021/-ko/
+/radeon_vcn_dec.c/1.10/Thu Feb 24 02:29:57 2022/-ko/
+/radeon_vcn_dec.h/1.9/Thu Feb 24 02:29:57 2022/-ko/
+/radeon_vcn_dec_jpeg.c/1.1.1.5/Thu Jul 22 10:06:54 2021/-ko/
+/radeon_vcn_enc.c/1.1.1.7/Thu Feb 24 01:54:07 2022/-ko/
+/radeon_vcn_enc.h/1.1.1.6/Thu Feb 24 01:54:07 2022/-ko/
+/radeon_vcn_enc_1_2.c/1.1.1.6/Thu Feb 24 01:54:07 2022/-ko/
+/radeon_vcn_enc_2_0.c/1.1.1.4/Thu Jul 22 10:06:56 2021/-ko/
+/radeon_vcn_enc_3_0.c/1.1.1.1/Thu Jul 22 10:06:56 2021/-ko/
+/radeon_video.c/1.11/Thu Jul 22 10:50:34 2021//
+/radeon_video.h/1.10/Thu Jul 22 10:50:34 2021//
+/radeon_winsys.h/1.12/Thu Feb 24 02:29:57 2022//
+D

@@ -1,0 +1,18 @@
+/Makefile/1.25/Fri Jul 14 17:23:38 2017//
+/calmwm.c/1.115/Sat Feb 26 15:19:18 2022//
+/calmwm.h/1.378/Sat Feb 26 15:19:18 2022//
+/client.c/1.266/Sat Feb 26 15:19:18 2022//
+/conf.c/1.255/Sat Feb 26 15:19:18 2022//
+/cwm.1/1.65/Tue Jul  9 21:38:44 2019//
+/cwmrc.5/1.77/Thu Jan 27 18:45:10 2022//
+/group.c/1.138/Thu Jan 27 18:45:10 2022//
+/kbfunc.c/1.173/Sun Feb 27 14:59:55 2022//
+/menu.c/1.109/Thu Feb 27 14:56:39 2020//
+/parse.y/1.75/Fri Dec 24 16:00:47 2021//
+/screen.c/1.98/Thu Jan 27 18:45:10 2022//
+/search.c/1.70/Thu Feb 27 14:56:39 2020//
+/util.c/1.26/Thu Apr 16 17:12:49 2020//
+/xevents.c/1.150/Tue Mar 24 14:47:29 2020//
+/xmalloc.c/1.17/Thu Feb 27 14:56:39 2020//
+/xutil.c/1.113/Sat Apr 25 20:07:28 2020//
+D/compat////

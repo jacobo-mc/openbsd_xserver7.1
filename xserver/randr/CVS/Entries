@@ -1,0 +1,21 @@
+/Makefile.am/1.6/Sat Jul 27 07:57:24 2019//
+/Makefile.in/1.37/Thu Nov 11 09:03:15 2021//
+/randr.c/1.16/Thu Nov 11 09:03:15 2021//
+/randrstr.h/1.17/Thu Nov 11 09:03:15 2021//
+/rrcrtc.c/1.21/Thu Nov 11 09:03:15 2021//
+/rrdispatch.c/1.11/Sat Jul 27 07:57:24 2019//
+/rrinfo.c/1.7/Sun May 29 12:02:40 2016//
+/rrlease.c/1.2/Thu Nov 11 09:03:15 2021//
+/rrmode.c/1.11/Sat Jul 27 07:57:24 2019//
+/rrmonitor.c/1.4/Thu Nov 11 09:03:15 2021//
+/rroutput.c/1.17/Thu Nov 11 09:03:15 2021//
+/rrpointer.c/1.5/Wed Sep 16 19:10:25 2015//
+/rrproperty.c/1.12/Sat Jul 27 07:57:24 2019//
+/rrprovider.c/1.9/Thu Nov 11 09:03:15 2021//
+/rrproviderproperty.c/1.3/Sun May 29 12:02:40 2016//
+/rrscreen.c/1.18/Thu Nov 11 09:03:15 2021//
+/rrsdispatch.c/1.9/Sat Jul 27 07:57:24 2019//
+/rrtransform.c/1.6/Sun May 29 12:02:40 2016//
+/rrtransform.h/1.5/Wed Sep 16 19:10:25 2015//
+/rrxinerama.c/1.12/Sat Jul 27 07:57:24 2019//
+D

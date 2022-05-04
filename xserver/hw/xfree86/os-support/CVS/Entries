@@ -1,0 +1,19 @@
+/Makefile.am/1.5/Sun Jun 10 13:21:25 2012//
+/Makefile.in/1.37/Thu Nov 11 09:03:08 2021//
+/int10Defines.h/1.1.1.1/Sun Nov 26 18:21:18 2006//
+/xf86OSpriv.h/1.5/Wed Sep 16 19:10:23 2015//
+/xf86_OSlib.h/1.13/Sat Jul 27 07:57:17 2019//
+/xf86_OSproc.h/1.14/Thu Nov 11 09:03:08 2021//
+D/bsd////
+D/bus////
+D/drm////
+D/hurd////
+D/linux////
+D/lynxos////
+D/misc////
+D/sco////
+D/shared////
+D/solaris////
+D/stub////
+D/sysv////
+D/usl////

@@ -1,0 +1,12 @@
+/README.portability/1.1.1.2/Thu Jul 22 10:03:28 2021//
+/meson.build/1.1.1.6/Thu Feb 24 01:53:20 2022/-ko/
+D/auxiliary////
+D/docs////
+D/drivers////
+D/frontends////
+D/include////
+D/state_trackers////
+D/targets////
+D/tests////
+D/tools////
+D/winsys////

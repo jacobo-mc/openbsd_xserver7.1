@@ -1,0 +1,19 @@
+/.gitignore/1.1/Tue Jun  1 19:33:54 2021//
+/3RDPARTY/1.395/Thu Feb 24 03:10:52 2022//
+/MODULES/1.474/Wed Mar 23 06:42:11 2022//
+/Makefile/1.78/Tue Apr 28 07:04:49 2020//
+/README/1.44/Wed Jul 14 18:46:21 2021//
+D/app////
+D/data////
+D/dist////
+D/distrib////
+D/doc////
+D/driver////
+D/etc////
+D/font////
+D/kdrive////
+D/lib////
+D/proto////
+D/share////
+D/util////
+D/xserver////
